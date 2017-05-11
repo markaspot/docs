@@ -22,8 +22,8 @@ GeoReport v2 and subsequent Open311 APIs are also required to have a standard se
 
 #### Testing the API
 Mark-a-Spot comes with a built-in GeoReport v2 Server. See how it works:
-1. Go straight to the  Api Key Auth Provider copy the API Key.
-2. Open a shell paste the command replacing the default API Key "abcdef123456". 
+1. Go straight to the  Api Key Auth Provider page and copy the API Key of the test user.
+2. Open a shell and paste the command having replaced the default API Key "abcdef123456". 
 3. Watch how content has been created on the Service-Request page.
 
 ```

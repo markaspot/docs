@@ -67,12 +67,11 @@ If you want to edit the different status, like adding more terms then `open` and
  
  Click `List terms` Then edit the terms. You can change Term-name, Icon and Colors
 
-## Site configuration and settings
-All Drupal typical settings and configuration options will not be aplified here. There a thousands of better sources for that, which will help you. If you need help for commercial support, don't hesitate to contact us.
-
-
 ### UUID Configuration
 You can specify the #ID pattern of map content (service requests) which will be reflected in the title (category + #id) and the URL of the content created. 
 
 #### Offset
 If you want to migrate content from a different system and not starting counting your content id at 1, you can define an negative offset (-[last id]). If you test with a brand new installation and want to start counting at #1, enter a positive offset.
+
+## Site configuration and settings
+All Drupal typical settings and configuration options will not be aplified here. There a thousands of better sources for that, which will help you. If you need help for commercial support, don't hesitate to contact us.
