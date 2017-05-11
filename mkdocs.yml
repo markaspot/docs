@@ -1,0 +1,10 @@
+site_name: Mark-a-Spot Documentation
+site_description: Docs on installation and configuration of a Mark-a-Spot project
+theme: readthedocs
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.nl2br
+pages:
+  - Installation: index.md
+  - Configuration: configuration.md
+  - GeoReport v2 API: api.md
