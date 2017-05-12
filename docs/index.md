@@ -27,9 +27,10 @@ If you have drush installed replace the connection string with credentials of yo
 
 ```
 $ cd project-dir
+$ fin start
 $ fin exec drush si markaspot -y  --db-url=mysql://user:user@default:3306/default
 ```
-This can take some minutes. After the installation process you will see 
+This can take some minutes. You might being asked for an SSH key passphrase after `fin start`, see [instructions](http://docksal.readthedocs.io/en/master/getting-started/project-setup/). After the installation process you will see 
 
 ```
 [...] 
