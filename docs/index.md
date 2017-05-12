@@ -22,11 +22,11 @@ $ composer create-project markaspot/mark-a-spot project-dir --stability dev
 This command will install the Mark-a-Spot distribution into a project directory, which will be a good starting point.
 
 You may then use the [included](https://github.com/markaspot/mark-a-spot/tree/master/.docksal) Docksal integration for easy development.
-If you have drush installed replace the connection string with credentials of your database and run the following drush command. You can also point your browser to a virtual host that refers to `project_dir/web`.
+If you have drush installed replace the connection string with credentials of your database and run the following drush command. You can also point your browser to a virtual host that refers to `project-dir/web`.
 
 
 ```
-$ cd project_dir
+$ cd project-dir
 $ fin exec drush si markaspot -y  --db-url=mysql://user:user@default:3306/default
 ```
 This can take some minutes. After the installation process you will see 
