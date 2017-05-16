@@ -1,5 +1,7 @@
 # Welcome to Mark-a-Spot
-![Logo](img/logo.png)
+*A Drupal 8 distribution*
+
+<img src="img/logo.png" alt="Logo" style="margin: -20px 20px 0 0; float:left; width: 120px;"/>
 
 Mark-a-Spot is a fully responsive mobile and desktop tool for public civic issue reporting and crowdmapping, idea-management, civic engagement with a localization perspective. It's based on [Drupal 8](https://drupal.org).
 
@@ -7,11 +9,11 @@ Mark-a-Spot is a fully responsive mobile and desktop tool for public civic issue
 
 We assume you use the Docksal integration that comes along with the project repo. It brings all necessary tools out of the box. All commands and URLs will also work in any local or production environment.
 
-Please help improving it. You can send pull requests anytime. If you find bugs dont hesitate to [file an issue](https://github.com/markaspot/mark-a-spot/issues). Contact us anytime for support.
+Please help improving it. You can send pull requests anytime. If you find bugs don't hesitate to [file an issue](https://github.com/markaspot/mark-a-spot/issues).
 
 ## Installation
 
-The easiest way to run a ready-to-use Mark-a-Spot is by installing it via composer. This is how you get the latest code base. 
+The easiest way to run a ready-to-use Mark-a-Spot platform is by installing it via composer. This is how you get the latest code base: 
 
 ```
 $ curl -s https://getcomposer.org/installer | php
