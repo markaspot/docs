@@ -3,7 +3,7 @@
 
 <img src="img/logo.png" alt="Logo" style="margin: -20px 20px 0 0; float:left; width: 120px;"/>
 
-Mark-a-Spot is a fully responsive mobile and desktop tool for public civic issue reporting and crowdmapping, idea-management, civic engagement with a localization perspective. It's based on [Drupal 8](https://drupal.org).
+[Mark-a-Spot](http://mark-a-spot.org) is a fully responsive mobile and desktop tool for public civic issue reporting and crowdmapping, idea-management, civic engagement with a localization perspective. It's based on [Drupal 8](https://drupal.org).
 
 ## About this documentation
 
