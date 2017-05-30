@@ -49,6 +49,10 @@ You can adjust the color scheme. `Appearance` > `MasRadix` > `Settings`
 You can [soon] add a hero or background image `Appearance` > `MasRadix` > `Settings`
 ...
 
+##### Subtheme
+
+If you need customization that need to override css or require sass code you can also add a subtheme and define masradix as a base theme. Please check out the [documentation at drupal.org](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme) for details.
+
 ### Structure content
 
 Drupal is a content management which helps structuring your information with different features. You already have learned about content types. Those can be referenced by taxonomies which categorize or tag content. Mark-a-Spot uses taxonomies for categories. 
@@ -75,3 +79,14 @@ If you want to migrate content from a different system and not starting counting
 
 ## Site configuration and settings
 All Drupal typical settings and configuration options will not be aplified here. There a thousands of better sources for that, which will help you. If you need help for commercial support, don't hesitate to contact us.
+
+### Map Configuration
+The map visualization is capsulated in a single module which loads all neccessary libraries, like leaflet and waypoint. It also relies on views infinite scroll to be able to scroll down the list of content and have all points shown in the top list. Developers can easily change the behaviour by adopting the map container to the theme. 
+
+Any other markup created by your view can be used. The connection to the module can be configured.
+
+### Map Settings page
+
+
+
+
