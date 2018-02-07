@@ -28,6 +28,8 @@ You may limit the street search results to a specific country or bounding box.
 Edit the Location field:
 ![Screenshot](img/location_field.png).
 
+### Validation
+
 #### Change the valid region
 Mark-a-Spot validates user input and restricts points to a valid area. This is useful, in case you set up your site for a specific city.
 Click on the Mark-a-Spot link in the toolbar. Click `Mark-a-Spot validation`.
@@ -38,7 +40,7 @@ You will be able to edit the polygon within valid service requests can be placed
 #### Duplicate Check
 Duplicate Posts are prevented by checking for similar points within a specific radius.
 
-### Change the appearance
+### Customize appearance
 
 Besides customizing the theme by Drupal theming standards you can change logo, favicon and some basic settings from within the browser:
 
@@ -53,7 +55,7 @@ You can [soon] add a hero or background image `Appearance` > `MasRadix` > `Setti
 
 If you need customization that need to override css or require sass code you can also add a subtheme and define masradix as a base theme. Please check out the [documentation at drupal.org](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme) for details.
 
-### Structure content
+### Structuring content
 
 Drupal is a content management which helps structuring your information with different features. You already have learned about content types. Those can be referenced by taxonomies which categorize or tag content. Mark-a-Spot uses taxonomies for categories. 
 

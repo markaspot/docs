@@ -4,6 +4,7 @@
 Updating from 8.3 to 8.4 should be pretty straightforwarded. Anyway, please try
 this first in your local dev-environment.
 
+Please check the [CHANGELOG](https://github.com/markaspot/markaspot/blob/8.4.x-dev/CHANGELOG.md) for changes.
 
 ```
 $ composer update
