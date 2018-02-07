@@ -71,7 +71,11 @@ If you want to edit the different status, like adding more terms then `open` and
  
  Click `List terms` Then edit the terms. You can change Term-name, Icon and Colors
 
-### UUID Configuration
+##### Organisation
+This vocabulary was introduced in 8.4 and lets you structure content by jurisdiction or departments.
+
+
+### Request ID Configuration
 You can specify the #ID pattern of map content (service requests) which will be reflected in the title (category + #id) and the URL of the content created. 
 
 #### Offset

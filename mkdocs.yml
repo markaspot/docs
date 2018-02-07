@@ -5,6 +5,8 @@ markdown_extensions:
   - markdown.extensions.admonition
   - markdown.extensions.nl2br
 pages:
-  - Installation: index.md
+  - Welcome: index.md
+  - Installation: installation.md
+  - Update: update.md
   - Configuration: configuration.md
   - GeoReport v2 API: api.md
